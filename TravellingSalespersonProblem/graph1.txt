@@ -1,0 +1,4 @@
+1	NewYork 	1 0	 2 10  3 15	4 20
+2	Elmhurst	1 5	 2 0   3 9	4 10
+3	Aurora	1 6	 2 13  3 0	4 12
+4	Austin	1 8	 2 8   3 9	4 0
